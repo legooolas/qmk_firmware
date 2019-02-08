@@ -1,12 +1,7 @@
-KB Paradise V60 Type R Default Layout
+KB Paradise V60 Type R Custom Layout
 ======================
 
-This is the default layout as defined by the KBP V60 Type R manual/keycaps
+Custom layout based on the default layout, but with some keys rearranged and reassigned,
+and arrow keys on the base layer in the bottom-right cluster of keys which I don't use
+for their original purpose anyway  :)
 
-## Keymap Notes
-- Does not support control for in-switch or underglow lighting
-- Keymap is not the same as other KBP V60 keyboards
-
-
-### Build
-To build this keymap, simply run `make KEYMAP=default`.
