@@ -14,13 +14,9 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef CONFIG_USER_H
-#define CONFIG_USER_H
+#pragma once
 
-#include "../../config.h"
+#define V60_POLESTAR
+//#define RGBLIGHT_EFFECT_BREATHING
 
-#ifdef V60_POLESTAR
-#undef V60_POLESTAR
-#endif
-
-#endif
+// place overrides here
